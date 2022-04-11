@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: url-request-scheduler
+Version: 0.3
+Summary: scheduler for url request
+Home-page: https://github.com/doorBW/url_request_scheduler
+Author: beomwoo.moon
+Author-email: doorbw@outlook.com
+License: UNKNOWN
+Download-URL: https://github.com/doorBW/url_request_scheduler/archive/master.zip
+Keywords: url_request_scheduler,url request scheduler,url scheduler,scheduler,url request
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3
+Requires-Dist: schedule
+Requires-Dist: requests
+
+UNKNOWN
+
+
